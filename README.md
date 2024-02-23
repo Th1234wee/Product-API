@@ -71,3 +71,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+# Project Setting Up and Processing Step
+1. Nest CLI Installation
+2. Dockerize App (8000)
+3. Install All Dependencies
